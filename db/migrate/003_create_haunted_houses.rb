@@ -13,3 +13,16 @@ class CreateHauntedHouses < ActiveRecord::Migration
       x.string :long_description
     end
   end
+
+
+
+
+
+
+
+
+
+
+
+
+end
