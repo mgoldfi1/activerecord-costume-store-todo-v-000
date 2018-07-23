@@ -1,5 +1,5 @@
 # Create your costume_stores migration here
-class CostumeStores < ActiveRecord::Migration
+class CreateCostumeStores < ActiveRecord::Migration
 
   def change
     create_table :costume_stores do |x|
@@ -19,4 +19,3 @@ class CostumeStores < ActiveRecord::Migration
 
 
   end
-      
